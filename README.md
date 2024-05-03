@@ -52,10 +52,14 @@ Anything related to JavaScript frameworks, cloud infrastructure, and the best pr
 <p align="center"> <!-- Center align trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=dhrumilp12&theme=nord&column=7" alt="GitHub Trophies"/>
 </p>
+
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhrumilp12&show_icons=true&theme=algolia" alt="GitHub Stats"/>
 </p>
+
+
 ## 📌 Pinned Repositories
 <p align="center">
   <a href="https://github.com/dhrumilp12/Mental-Health-Companion">
