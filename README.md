@@ -1,7 +1,8 @@
 
 # Welcome to Dhrumil's Hub 👋
 
-![Cropped_Banner](https://github.com/dhrumilp12/dhrumilp12/assets/123137675/da9956d0-11e8-4c06-8960-5133ecc6059e)
+![untitled](https://github.com/dhrumilp12/dhrumilp12/assets/123137675/acef4667-d8fb-4e98-b9b1-56ce72c1aeda)
+
 
 
 
