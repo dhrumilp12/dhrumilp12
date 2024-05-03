@@ -27,7 +27,7 @@ Advanced machine learning algorithms, particularly in natural language processin
 Anything related to JavaScript frameworks, cloud infrastructure, and the best practices for maintaining large-scale databases.
 
 ## 📫 How to reach me:
-- **LinkedIn:** [your-linkedin](https://www.linkedin.com/in/your-profile/)
+- **LinkedIn:** [your-linkedin]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/dhrumil-patel2002?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLZYSdSahQ2CUeGm138mQkg%3D%3D))
 - **Email:** your.email@example.com
 
 ## 📄 Latest Blog Posts
