@@ -38,7 +38,7 @@ Anything related to JavaScript frameworks, cloud infrastructure, and the best pr
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=tokyonight)
 
 ## 📌 Pinned Repositories
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=reponame&theme=tokyonight)](https://github.com/yourusername/reponame)
+[![Event Spotlight and Reservation System](https://github-readme-stats.vercel.app/api/pin/?username=dhrumilp12&repo=DevPostGsw-main&theme=tokyonight)](https://github.com/dhrumilp12/DevPostGsw-main.git)
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=reponame&theme=tokyonight)](https://github.com/yourusername/reponame)
 
 ## 🎧 Spotify Playing
