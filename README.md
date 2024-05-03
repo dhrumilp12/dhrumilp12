@@ -47,6 +47,11 @@ Anything related to JavaScript frameworks, cloud infrastructure, and the best pr
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dhrumilp12.dhrumilp12" alt="Profile Views"/>
 </p>
 
+## 📊 GitHub Activity Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=dhrumilp12&theme=xcode" alt="GitHub Activity Graph"/>
+</p>
+
 
 ## 🏆 GitHub Trophies
 <p align="center"> <!-- Center align trophies -->
