@@ -49,7 +49,9 @@ Anything related to JavaScript frameworks, cloud infrastructure, and the best pr
 
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrumilp12&count_private=true&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrumilp12&show_icons=true&theme=algolia" alt="GitHub Stats"/>
+</p>
 
 
 ## 📌 Pinned Repositories
