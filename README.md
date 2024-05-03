@@ -1,7 +1,8 @@
 
 # Welcome to Dhrumil's Hub 👋
 
-![image](file:///D:/DALL%C2%B7E%202024-05-03%2019.07.47%20-%20A%20sophisticated%20and%20visually%20striking%20banner%20for%20a%20GitHub%20profile,%20featuring%20a%20futuristic%20cityscape%20blended%20with%20digital%20circuit%20patterns%20and%20glowing%20.webp)
+![image](https://github.com/dhrumilp12/dhrumilp12/assets/123137675/cbe5afb6-eadf-45ae-a62f-2081fc40bf02)
+
 
 
 ## 🚀 About Me
