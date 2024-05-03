@@ -10,7 +10,7 @@ I'm Dhrumil, a Full-Stack Developer with a passion for building scalable web app
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=4B8BBE)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=4B8BBE)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=FFD43B)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=F0DB4F)
@@ -21,9 +21,12 @@ I'm Dhrumil, a Full-Stack Developer with a passion for building scalable web app
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
 
+## 📅 Coding Activity
+![Dhrumil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dhrumilp12&theme=xcode) <!-- This shows your GitHub activity graph -->
+
 ## 🌱 I’m currently learning
-- Advanced React techniques for optimal frontend performance
-- Kubernetes for orchestrating containerized applications
+- Advanced **React** techniques for optimal frontend performance
+- **Kubernetes** for orchestrating containerized applications
 - Gujarati, because why not? I am kidding—I can speak Gujarati, Hindi, and English.
 
 ## 👯 I’m looking to collaborate on
@@ -37,7 +40,7 @@ Anything related to JavaScript frameworks, cloud infrastructure, and the best pr
 
 ## 📫 How to reach me:
 - **LinkedIn:** [[Dhrumilkumar Patel](https://www.linkedin.com/in/dhrumil-patel2002/)]
-- **Instagram:** patel.dhrumil
+- **Instagram:** [[@patel.dhrumil](https://instagram.com/patel.dhrumil)]
 
 
 
