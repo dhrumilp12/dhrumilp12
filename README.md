@@ -44,7 +44,7 @@ Anything related to JavaScript frameworks, cloud infrastructure, and the best pr
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=dhrumilp12.dhrumilp12&left_color=gray&right_color=blue&left_text=Profile%20Views" alt="Profile Views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhrumilp12.dhrumilp12" alt="Profile Views"/>
 </p>
 
 
