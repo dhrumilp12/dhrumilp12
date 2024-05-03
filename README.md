@@ -39,7 +39,7 @@ Anything related to JavaScript frameworks, cloud infrastructure, and the best pr
 
 ## 📌 Pinned Repositories
 [![Event Spotlight and Reservation System](https://github-readme-stats.vercel.app/api/pin/?username=dhrumilp12&repo=DevPostGsw-main&theme=tokyonight)](https://github.com/dhrumilp12/DevPostGsw-main.git)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=reponame&theme=tokyonight)](https://github.com/yourusername/reponame)
+[![Mental-Health-Companion](https://github-readme-stats.vercel.app/api/pin/?username=dhrumilp12&repo=Mental-Health-Companion&theme=tokyonight)](https://github.com/dhrumilp12/Mental-Health-Companion.git)
 
 ## 🎧 Spotify Playing
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=yourspotifyusername)
