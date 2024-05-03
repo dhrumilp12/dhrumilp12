@@ -1,13 +1,6 @@
 
 # Welcome to Dhrumil's Hub 👋
 
-## 👀 Profile Views
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dhrumilp12.dhrumilp12)
-
-
-
-
-
 ## 🚀 About Me
 I'm Dhrumil, a Full-Stack Developer with a passion for building scalable web applications and working on groundbreaking machine learning projects. With a background in computer science from Georgia Southwestern State University (USA) and LDRP Institute of Technology and Research (India), and I excel in environments that challenge my skills and push the boundaries of technology.
 
@@ -47,6 +40,8 @@ Anything related to JavaScript frameworks, cloud infrastructure, and the best pr
 - **Instagram:** [[@patel.dhrumil](https://instagram.com/patel.dhrumil)]
 
 
+## 👀 Profile Views
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dhrumilp12.dhrumilp12)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrumilp12&count_private=true&show_icons=true&theme=tokyonight)
