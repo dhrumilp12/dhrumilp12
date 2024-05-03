@@ -2,13 +2,11 @@
 # Welcome to Dhrumil's Hub 👋
 <table>
   <tr>
-    <!-- Responsive Image/Table split -->
-    <td valign="top" width="100%">
+    <!-- Responsive Image/Table split for larger screens -->
+    <td valign="top" width="50%">
       <img src="https://github.com/dhrumilp12/dhrumilp12/assets/123137675/777bc08b-f2e7-4183-830d-45a2612026b3" alt="Banner Image" style="max-width:100%;"/>
     </td>
-  </tr>
-  <tr>
-    <td>
+    <td valign="top" width="50%">
 
 ## 🚀 About Me
 I'm Dhrumil, a Full-Stack Developer passionate about building scalable web applications and advancing machine learning projects. With an academic background from Georgia Southwestern State University (USA) and LDRP Institute of Technology and Research (India), I thrive in environments that challenge my technical and innovative skills.
