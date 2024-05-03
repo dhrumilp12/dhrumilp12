@@ -42,20 +42,17 @@ Anything related to JavaScript frameworks, cloud infrastructure, and the best pr
 
 
 ## 👀 Profile Views
-<p align="center">
+<p align="center"> <!-- Center align the profile views count -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dhrumilp12.dhrumilp12" alt="visitor badge"/>
 </p>
-
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhrumilp12&theme=nord&no-frame=true&column=3" alt="GitHub Trophies"/>
+<p align="center"> <!-- Center align trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=dhrumilp12&theme=nord&column=7" alt="GitHub Trophies"/>
 </p>
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhrumilp12&show_icons=true&theme=algolia" alt="GitHub Stats"/>
 </p>
-
 ## 📌 Pinned Repositories
 <p align="center">
   <a href="https://github.com/dhrumilp12/Mental-Health-Companion">
