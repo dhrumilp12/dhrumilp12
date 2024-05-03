@@ -2,7 +2,7 @@
 # Welcome to Dhrumil's Hub 👋
 
 ## 🚀 About Me
-I'm Dhrumil, a Full-Stack Developer with a passion for building scalable web applications and working on groundbreaking machine learning projects. With a background in computer science from GSW(USA) and LDRP(IND), and professional experience in tech giants and startups alike, I thrive in dynamic environments that challenge my skills and allow me to expand my horizons.-🌐 Visit my [Portfolio]([https://dhrumil-patel.onrender.com/]) for more about my work.
+I'm Dhrumil, a Full-Stack Developer with a passion for building scalable web applications and working on groundbreaking machine learning projects. With a background in computer science from GSW(USA) and LDRP(IND), and professional experience in tech giants and startups alike, I thrive in dynamic environments that challenge my skills and allow me to expand my horizons.-🌐 Visit my [[Portfolio](https://dhrumil-patel.onrender.com/)] for more about my work.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
