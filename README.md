@@ -2,22 +2,22 @@
 # Welcome to Dhrumil's Hub 👋
 <table>
   <tr>
-    <!-- Image and content side by side for larger screens, will stack on smaller screens -->
-    <td valign="top"><img src="https://github.com/dhrumilp12/dhrumilp12/assets/123137675/777bc08b-f2e7-4183-830d-45a2612026b3" alt="Banner Image" style="max-width:100%;"/></td>
-    <td valign="top">
-
+    <td valign="top" width="50%">
+      <img src="https://github.com/dhrumilp12/dhrumilp12/assets/123137675/777bc08b-f2e7-4183-830d-45a2612026b3" alt="Banner Image"/>
+    </td>
+    <td valign="top" width="50%">
 ## 🚀 About Me
-I'm Dhrumil, a Full-Stack Developer passionate about building scalable web applications and advancing machine learning projects. With an academic background from Georgia Southwestern State University (USA) and LDRP Institute of Technology and Research (India), I thrive in environments that challenge my technical and innovative skills.
+I'm Dhrumil, a Full-Stack Developer with a passion for building scalable web applications and working on groundbreaking machine learning projects. With a background in computer science from Georgia Southwestern State University (USA) and LDRP Institute of Technology and Research (India), and I excel in environments that challenge my skills and push the boundaries of technology.
 
-🌐 [View My Portfolio](https://dhrumil-patel.onrender.com/) for more insights into my projects and achievements.
+🌐 [View My Portfolio](https://dhrumil-patel.onrender.com/) for insights into my projects and achievements.
 
 ## 📫 How to reach me:
-- **LinkedIn:** [Dhrumilkumar Patel](https://www.linkedin.com/in/dhrumil-patel2002/)
-- **Instagram:** [@patel.dhrumil](https://instagram.com/patel.dhrumil)
-
-    </td>
+- **LinkedIn:** [[Dhrumilkumar Patel](https://www.linkedin.com/in/dhrumil-patel2002/)]
+- **Instagram:** [[@patel.dhrumill](https://instagram.com/patel.dhrumill)]
+ </td>
   </tr>
 </table>
+
 
 
 ## 🔧 Technologies & Tools
