@@ -21,8 +21,10 @@ I'm Dhrumil, a Full-Stack Developer with a passion for building scalable web app
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
 
-## 📅 Coding Activity
-![Dhrumil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dhrumilp12&theme=xcode)
+
+## 📈 GitHub Contributions
+![Dhrumil's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=dhrumilp12&show_icons=true&theme=algolia)
+
 
 
 ## 🌱 I’m currently learning
