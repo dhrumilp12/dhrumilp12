@@ -39,7 +39,7 @@ Anything related to JavaScript frameworks, cloud infrastructure, and the best pr
 
 ## 📫 How to reach me:
 - **LinkedIn:** [[Dhrumilkumar Patel](https://www.linkedin.com/in/dhrumil-patel2002/)]
-- **Instagram:** [[@patel.dhrumil](https://instagram.com/patel.dhrumil)]
+- **Instagram:** [[@patel.dhrumil](https://instagram.com/patel.dhrumill)]
 
 ## 👀 Profile Views
 <p align="center">
