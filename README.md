@@ -8,18 +8,18 @@ I'm Dhrumil, a Full-Stack Developer with a passion for building scalable web app
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=4B8BBE)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=4B8BBE)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=FFD43B)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=F0DB4F)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=node.js&logoColor=white&color=68A063)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat-square&logo=microsoft-azure&logoColor=white&color=0078D4)
-![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat-square&logo=digitalocean&logoColor=white&color=0080FF)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Code-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Cloud-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Cloud-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
 
 
 ## 🌱 I’m currently learning
