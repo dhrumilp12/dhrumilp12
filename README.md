@@ -1,8 +1,8 @@
 
-# Welcome to [Your Name]'s Hub 👋
+# Welcome to Dhrumil's Hub 👋
 
 ## 🚀 About Me
-I'm [Your Name], a Full-Stack Developer with a passion for building scalable web applications and working on groundbreaking machine learning projects. With a background in computer science from [Your University] and professional experience in tech giants and startups alike, I thrive in dynamic environments that challenge my skills and allow me to expand my horizons.
+I'm Dhrumil, a Full-Stack Developer with a passion for building scalable web applications and working on groundbreaking machine learning projects. With a background in computer science from GSW(USA) and LDRP(IND), and professional experience in tech giants and startups alike, I thrive in dynamic environments that challenge my skills and allow me to expand my horizons.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -15,10 +15,10 @@ I'm [Your Name], a Full-Stack Developer with a passion for building scalable web
 ## 🌱 I’m currently learning
 - Advanced React techniques for optimal frontend performance
 - Kubernetes for orchestrating containerized applications
-- Spanish, because why not?
+- Gujarati, because why not? I am kidding i can speak Gujarati,Hindi and English.
 
 ## 👯 I’m looking to collaborate on
-Open source projects particularly focused on healthtech and edutech sectors, where I can contribute to impactful solutions that enhance lives.
+Open source projects particularly focused on healthtech, gamming and edutech sectors, where I can contribute to impactful solutions that enhance lives.
 
 ## 🤔 I’m looking for help with
 Advanced machine learning algorithms, particularly in natural language processing and predictive analytics.
@@ -35,7 +35,7 @@ Anything related to JavaScript frameworks, cloud infrastructure, and the best pr
 - [Why Kubernetes is the Future of Cloud Infrastructure](https://yourblog.com/kubernetes)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrumilp12&count_private=true&show_icons=true&theme=tokyonight)
 
 ## 📌 Pinned Repositories
 [![Event Spotlight and Reservation System](https://github-readme-stats.vercel.app/api/pin/?username=dhrumilp12&repo=DevPostGsw-main&theme=tokyonight)](https://github.com/dhrumilp12/DevPostGsw-main.git)
