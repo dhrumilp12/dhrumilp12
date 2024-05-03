@@ -41,16 +41,11 @@ Anything related to JavaScript frameworks, cloud infrastructure, and the best pr
 - **LinkedIn:** [[Dhrumilkumar Patel](https://www.linkedin.com/in/dhrumil-patel2002/)]
 - **Instagram:** [[@patel.dhrumil](https://instagram.com/patel.dhrumil)]
 
-
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhrumilp12.dhrumilp12" alt="Profile Views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhrumilp12.dhrumilp12" alt="Profile Views" height="50"/>
 </p>
 
-## 📊 GitHub Activity Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=dhrumilp12&theme=xcode" alt="GitHub Activity Graph"/>
-</p>
 
 
 ## 🏆 GitHub Trophies
