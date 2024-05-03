@@ -51,9 +51,17 @@ Anything related to JavaScript frameworks, cloud infrastructure, and the best pr
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrumilp12&count_private=true&show_icons=true&theme=tokyonight)
 
+
 ## 📌 Pinned Repositories
-[![Mental-Health-Companion](https://github-readme-stats.vercel.app/api/pin/?username=dhrumilp12&repo=Mental-Health-Companion&theme=tokyonight)](https://github.com/dhrumilp12/Mental-Health-Companion.git)
-[![Event Spotlight and Reservation System](https://github-readme-stats.vercel.app/api/pin/?username=dhrumilp12&repo=DevPostGsw-main&theme=tokyonight)](https://github.com/dhrumilp12/DevPostGsw-main.git)
+<p align="center">
+  <a href="https://github.com/dhrumilp12/Mental-Health-Companion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhrumilp12&repo=Mental-Health-Companion&theme=nightowl" alt="Mental Health Companion"/>
+  </a>
+  <a href="https://github.com/dhrumilp12/DevPostGsw-main">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhrumilp12&repo=DevPostGsw-main&theme=nightowl" alt="Event Spotlight and Reservation System"/>
+  </a>
+</p>
+
 
 
 
