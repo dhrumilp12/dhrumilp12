@@ -1,6 +1,6 @@
 
 # Welcome to Dhrumil's Hub 👋
-
+![Cropped Banner](https://github.com/dhrumilp12/dhrumilp12/assets/123137675/da9956d0-11e8-4c06-8960-5133ecc6059e)
 ## 🚀 About Me
 I'm Dhrumil, a Full-Stack Developer with a passion for building scalable web applications and working on groundbreaking machine learning projects. With a background in computer science from Georgia Southwestern State University (USA) and LDRP Institute of Technology and Research (India), and I excel in environments that challenge my skills and push the boundaries of technology.
 
