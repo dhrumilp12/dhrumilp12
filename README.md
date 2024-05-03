@@ -22,7 +22,8 @@ I'm Dhrumil, a Full-Stack Developer with a passion for building scalable web app
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
 
 ## 📅 Coding Activity
-![Dhrumil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dhrumilp12&theme=xcode) <!-- This shows your GitHub activity graph -->
+![Dhrumil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dhrumilp12&theme=xcode)
+
 
 ## 🌱 I’m currently learning
 - Advanced **React** techniques for optimal frontend performance
