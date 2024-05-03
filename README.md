@@ -42,6 +42,9 @@ Anything related to JavaScript frameworks, cloud infrastructure, and the best pr
 
 ## 👀 Profile Views
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dhrumilp12.dhrumilp12)
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dhrumilp12)
+
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrumilp12&count_private=true&show_icons=true&theme=tokyonight)
