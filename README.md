@@ -1,12 +1,19 @@
 
 # Welcome to Dhrumil's Hub 👋
-![image](https://github.com/dhrumilp12/dhrumilp12/assets/123137675/777bc08b-f2e7-4183-830d-45a2612026b3)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github.com/dhrumilp12/dhrumilp12/assets/123137675/777bc08b-f2e7-4183-830d-45a2612026b3" alt="Banner Image"/>
+    </td>
+    <td valign="top" width="50%">
 
 ## 🚀 About Me
 I'm Dhrumil, a Full-Stack Developer with a passion for building scalable web applications and working on groundbreaking machine learning projects. With a background in computer science from Georgia Southwestern State University (USA) and LDRP Institute of Technology and Research (India), and I excel in environments that challenge my skills and push the boundaries of technology.
 
 🌐 [View My Portfolio](https://dhrumil-patel.onrender.com/) for insights into my projects and achievements.
-
+ </td>
+  </tr>
+</table>
 
 ## 🔧 Technologies & Tools
 <p align="center">
