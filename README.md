@@ -1,7 +1,8 @@
 
 # Welcome to Dhrumil's Hub 👋
 
-![untitled](https://github.com/dhrumilp12/dhrumilp12/assets/123137675/acef4667-d8fb-4e98-b9b1-56ce72c1aeda)
+## 👀 Profile Views
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dhrumilp12.dhrumilp12)
 
 
 
