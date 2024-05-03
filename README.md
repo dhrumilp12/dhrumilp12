@@ -5,16 +5,16 @@
 I'm Dhrumil, a Full-Stack Developer with a passion for building scalable web applications and working on groundbreaking machine learning projects. With a background in computer science from GSW(USA) and LDRP(IND), and professional experience in tech giants and startups alike, I thrive in dynamic environments that challenge my skills and allow me to expand my horizons.-🌐 Visit my [[Portfolio](https://dhrumil-patel.onrender.com/)] for more about my work.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=4B8BBE)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=4B8BBE)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=FFD43B)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=F0DB4F)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=node.js&logoColor=white&color=68A063)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat-square&logo=microsoft-azure&logoColor=white&color=0078D4)
+![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat-square&logo=digitalocean&logoColor=white&color=0080FF)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
 
 ## 🌱 I’m currently learning
 - Advanced React techniques for optimal frontend performance
