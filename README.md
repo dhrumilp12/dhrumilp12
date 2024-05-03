@@ -47,6 +47,7 @@ Anything related to JavaScript frameworks, cloud infrastructure, and the best pr
   <img src="https://visitor-badge.glitch.me/badge?page_id=dhrumilp12.dhrumilp12&left_color=gray&right_color=blue&left_text=Profile%20Views" alt="Profile Views"/>
 </p>
 
+
 ## 🏆 GitHub Trophies
 <p align="center"> <!-- Center align trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=dhrumilp12&theme=nord&column=7" alt="GitHub Trophies"/>
