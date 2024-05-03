@@ -41,7 +41,9 @@ Anything related to JavaScript frameworks, cloud infrastructure, and the best pr
 
 
 ## 👀 Profile Views
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dhrumilp12.dhrumilp12)
+<p align="center"> <!-- Center align the profile views count -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhrumilp12.dhrumilp12" alt="visitor badge"/>
+</p>
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dhrumilp12)
 
