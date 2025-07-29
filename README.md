@@ -80,7 +80,7 @@ Anything related to JavaScript frameworks, cloud infrastructure, and the best pr
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhrumilp12&repo=Mental-Health-Companion&theme=nightowl" alt="Mental Health Companion"/>
   </a>
   <a href="https://github.com/dhrumilp12/study-buddy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhrumilp12&repo=study-buddy-main&theme=nightowl" alt="study buddy"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhrumilp12&repo=study-buddy&theme=nightowl" alt="study buddy"/>
   </a>
 </p>
 
