@@ -1,129 +1,142 @@
+<!-- Top Cinematic Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0B0B,100:BD0E0E&text=DHRUMIL%20'IRON%20DEV'%20PATEL&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&desc=Full-Stack%20%7C%20AI%2FML%20%7C%20Cloud&descAlign=50&descAlignY=63" alt="Marvel banner"/>
+</p>
 
-# 🕷️ Welcome to Dhrumil's Universe - Your Friendly Neighborhood Developer! ⚡
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&vCenter=true&width=900&lines=Building+human-centered+AI+%26+polished+UX;C+backends%2C+Nuxt%2FReact+frontends%2C+Azure%2FAWS+cloud;Available+for+Internship%2FCo-op+%282025-26%29" alt="Typing SVG"/>
+</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/MCZ39lz83o5lC/giphy.gif" width="500" alt="Marvel Heroes"/>
-</div>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github.com/dhrumilp12/dhrumilp12/assets/123137675/777bc08b-f2e7-4183-830d-45a2612026b3" alt="Hero Banner"/>
-    </td>
-    <td valign="top" width="50%">
-      
-## 🦸‍♂️ Origin Story
-I'm **Dhrumil "The Code Avenger" Patel**, a Full-Stack Developer with the power to build scalable web applications and harness the mystical arts of machine learning! With great code comes great responsibility. 
-
-From the halls of Georgia Southern University, I've assembled my arsenal of programming superpowers to protect the digital realm and create solutions that matter.
-
-🌐 [**Enter My Digital Fortress**](https://dhrumils-90s-portfolio.onrender.com/) - Where legends are made!
-
-## 📡 Assemble with Me:
-- **🔗 S.H.I.E.L.D. Network:** [Dhrumilkumar Patel](https://www.linkedin.com/in/dhrumil-patel2002/)
-- **📸 Hero Chronicles:** [@patel.dhrumill](https://instagram.com/patel.dhrumill)
- </td>
-  </tr>
-</table>
+<!-- S.H.I.E.L.D. Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/S.H.I.E.L.D.-Clearance%20Alpha-black?style=for-the-badge&logo=readthedocs&logoColor=white">
+  <img src="https://img.shields.io/badge/Base-Knoxville,%20TN-BD0E0E?style=for-the-badge&logo=google-maps&logoColor=white">
+  <a href="mailto:dpate172@vols.utk.edu"><img src="https://img.shields.io/badge/Contact-dpate172%40vols.utk.edu-0B0B0B?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/dhrumil-patel2002" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://dhrumils-90s-portfolio.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live-BD0E0E?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
 
 ---
 
-## ⚡ My Infinity Stones (Technologies & Tools)
-<div align="center">
-  <h3>🔥 Power Stone - Languages & Frameworks</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FF0000" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FFD700" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=228B22" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=00BFFF" alt="React"/>
-  
-  <h3>🌌 Space Stone - Cloud & Infrastructure</h3>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=4169E1" alt="Azure"/>
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=1E90FF" alt="DigitalOcean"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=00CED1" alt="Docker"/>
-  
-  <h3>💎 Reality Stone - Operating Systems</h3>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FF4500" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=8A2BE2" alt="Windows"/>
-  
-  <h3>🧠 Mind Stone - Databases</h3>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FF6347" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=32CD32" alt="MongoDB"/>
-</div>
+## 🛡️ S.H.I.E.L.D. Dossier
+
+- **Status:** M.S. in Computer Science (Intelligent Systems & ML), University of Tennessee, Knoxville  
+- **Current Mission:** Full-Stack / AI-ML Developer Intern @ **Magical Mates** — HIPAA-conscious AI platform for children’s well-being  
+- **Distinctions:** Outstanding Computing Undergraduate Award (GSW), 3× Hackathon wins/placements (GitHub Copilot – 3rd; Azure Cosmos DB Dev Challenge – Winner)  
+- **Publication:** *A Supervised AI Agent Using Azure to Enhance Student Learning* — WAIE 2025 (accepted)
 
 ---
 
-## 🚀 Current Missions
+## ⚙️ Powers & Abilities
 
-### 🎯 **Training Arc**
-- Mastering advanced **React** techniques for ultimate frontend performance
-- Learning **Kubernetes** to orchestrate my containerized army
-- Perfecting Gujarati (because even superheroes need to stay connected to their roots!) 🇮🇳
+**Languages:** C, C++, Python, JavaScript/TypeScript, C#, SQL, R, Java  
+**Frameworks:** React, Nuxt, Angular, Flask, FastAPI, .NET 9, Vite, MUI, Socket.IO  
+**AI/ML & Agents:** Azure OpenAI, Azure Cognitive Services (Speech/Translator/Vision), LangChain, FAISS, TensorFlow  
+**Data & Cloud:** PostgreSQL, SQLite, Firestore, Mongo, **Azure Cosmos DB (vCore)**, Azure (Containers, ACR, Blob), AWS (S3), GCP  
+**DevOps:** Docker, GitHub Actions, CI/CD, Observability, Profiling, PyTest
 
-### 🤝 **Team-Up Opportunities**
-Looking to join forces with fellow heroes on open source projects in:
-- 🏥 **HealthTech** - Healing the world one app at a time
-- 🎮 **Gaming** - Creating epic digital adventures
-- 📚 **EduTech** - Empowering minds across the universe
-
-### 🆘 **Calling for Backup**
-Even the mightiest heroes need allies! Seeking guidance on:
-- Advanced ML algorithms and AI sorcery
-- Natural Language Processing wizardry
-- Predictive analytics mastery
-
----
-
-## 💬 Ask Your Friendly Neighborhood Developer About:
-- JavaScript frameworks (my web-slinging specialty!)
-- Cloud infrastructure architecture
-- Database optimization and best practices
-- How to balance great power with great responsibility
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cosmos%20DB-2C3E50?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## 📊 Hero Stats Dashboard
+## 📜 Origin Story (About Me)
 
-<div align="center">
-  
-### 👁️ S.H.I.E.L.D. Surveillance Counter
-<img src="https://visitor-badge.laobi.icu/badge?page_id=dhrumilp12.dhrumilp12&label=HEROES%20VISITED&labelColor=dc143c&color=ff6347" alt="Profile Views" height="35"/>
+I turn ambiguous problems into reliable, user-centered software — from **C backends** and **typed APIs** to **accessible frontends** and **cloud-native AI**. I optimize for readability, testing, performance, accessibility, and security.
 
-### 🏆 Hall of Fame Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=dhrumilp12&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-
-### ⚡ Power Level Analysis
-<img src="https://github-readme-stats.vercel.app/api?username=dhrumilp12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6347&text_color=FFFFFF&icon_color=FFD700" alt="GitHub Stats"/>
-
-### 🎯 Most Wanted (Pinned Missions)
-<a href="https://github.com/dhrumilp12/Mental-Health-Companion">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhrumilp12&repo=Mental-Health-Companion&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6347&text_color=FFFFFF" alt="Mental Health Companion"/>
-</a>
-<a href="https://github.com/dhrumilp12/study-buddy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhrumilp12&repo=study-buddy&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6347&text_color=FFFFFF" alt="Study Buddy"/>
-</a>
-
-</div>
+- 🧪 Research-to-production mindset (HIPAA, accessibility, secure auth)  
+- 🚀 Product velocity with CI/CD, containers, and pragmatic architecture  
+- 🤝 Collaborative delivery with designers, clinicians, and stakeholders
 
 ---
 
-## 🌟 Join the Alliance!
+## 🗂️ Battle Logs (Featured Projects)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300"/>
-  
-  **"I am inevitable... at fixing bugs and building awesome apps!"** 
-  
-  Ready to assemble? Whether you're a fellow developer, tech enthusiast, or just someone with an awesome idea, let's team up and save the digital world together!
-  
-  ### 📡 Activate Communication Protocols:
-  **🔗 LinkedIn HQ:** [Dhrumilkumar Patel](https://www.linkedin.com/in/dhrumil-patel2002/)  
-  **📸 Hero Feed:** [@patel.dhrumill](https://instagram.com/patel.dhrumill)
-  
-  *"With great code comes great responsibility!"* 🕷️
-</div>
+### 🎓 Study-Buddy — *GitHub Copilot Hackathon (3rd Place)*
+AI tutor with speech ↔ text, translation, avatars, quiz engine (Azure Document Intelligence), leaderboard & charts.  
+**Stack:** Python, Angular, Azure OpenAI/Cognitive, Cosmos DB, Azure Container Apps, GitHub Actions  
+🔗 **Code:** https://github.com/dhrumilp12/study-buddy · **Devpost:** https://devpost.com/software/study-buddy-gsw
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Avengers%20Assemble!&fontSize=50&fontColor=fff&animation=twinkling"/>
-</div>
+### 🌐 AI Agent — Speech & Video Translator
+Real-time STT, OCR on frames, translation overlay, SignalR streaming; modular services for STT/OCR/Translate/Video.  
+**Stack:** C#, .NET 9, Azure Speech/Translator/Vision, React/TypeScript  
+🔗 **Demo/Code:** (repo link on request)
+
+---
+
+### 🎮 Sky Warrior
+Top-down shooter with adaptive enemy AI, particle effects, HUD, level progression & high-score tracking.  
+**Stack:** Python, Pygame, SQLite, AWS S3  
+🔗 **Code:** https://github.com/dhrumilp12/skywarrior · **Devpost:** https://devpost.com/software/sky-warrior
+
+---
+
+### 🥗 PantryShare — Food Rescue PWA
+Real-time matching via Haversine distance + pickup windows, role-based access, live chat, offline-first PWA.  
+**Stack:** Vue 3, Node/Express, Firestore, Socket.IO, GCP  
+🔗 **Code:** https://github.com/dhrumilp12/LionHack-PantryShare
+
+---
+
+### 💬 Earlent — Mental Health Companion
+Empathetic AI with STT/TTS, routines, mood logging, search tools (Google/Bing/YouTube/Places/Tavily), web push reminders.  
+**Stack:** React/Vite, Flask, Azure OpenAI, Cosmos DB, LangChain  
+🔗 **Code:** https://github.com/dhrumilp12/Mental-Health-Companion
+
+---
+
+## 🛰️ Mission Control (Experience)
+
+**Full-Stack / AI-ML Developer Intern — Magical Mates** · *Jun 2025 – Present*  
+Built AI platform + plush companion for children’s well-being; Flask backend, React/Tailwind frontend, **Azure OpenAI, Azure Cognitive Services, Cosmos DB**, ElevenLabs; HIPAA-aligned data flows; **CI/CD to Azure** with health checks and logging.
+
+**Web Developer Intern — Georgia Southwestern State University** · *Jan 2024 – May 2025*  
+ADA-compliant, responsive sites in Cascade CMS; dynamic data-driven forms; SEO, CI/CD improvements.
+
+---
+
+## 📰 Daily Bugle Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dhrumilp12&theme=dark&hide_border=true&ring=BD0E0E&fire=BD0E0E&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrumilp12&show_icons=true&theme=dark&hide_border=true&title_color=BD0E0E&icon_color=BD0E0E" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumilp12&layout=compact&theme=dark&hide_border=true&title_color=BD0E0E" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔗 Multiverse Portals
+
+- 🌐 Portfolio: **https://dhrumils-90s-portfolio.onrender.com/**
+- 💼 LinkedIn: **https://linkedin.com/in/dhrumil-patel2002**
+- 📧 Email: **dpate172@vols.utk.edu**
+
+---
+
+<!-- Footer Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=BD0E0E&section=footer" alt="divider"/>
+</p>
+
+<!-- Optional: Commit Snake (just uncomment if you want it) -->
+<!--
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+-->
