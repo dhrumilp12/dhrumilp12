@@ -7,10 +7,15 @@
 
 </div>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION (emoji URL-encoded) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=100&lines=🦾+Building+AI-Powered+Solutions;⚡+Crafting+Seamless+User+Experiences;🛡️+Securing+Digital+Universes;🚀+Innovating+with+Cutting-Edge+Tech" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%A6%BE+Building+AI-Powered+Solutions;%E2%9A%A1+Crafting+Seamless+User+Experiences;%F0%9F%9B%A1%EF%B8%8F+Securing+Digital+Universes;%F0%9F%9A%80+Innovating+with+Cutting-Edge+Tech"
+    alt="Typing headline with emojis"
+  />
 </div>
+
+
 
 <!-- AVENGERS BADGE COLLECTION -->
 <div align="center">
