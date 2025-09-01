@@ -137,6 +137,6 @@ ADA-compliant, responsive sites in Cascade CMS; dynamic data-driven forms; SEO, 
 </p>
 
 <!-- Optional: Commit Snake (just uncomment if you want it) -->
-<!--
+
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
--->
+
